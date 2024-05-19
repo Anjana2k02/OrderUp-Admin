@@ -1,0 +1,6 @@
+INDEX VERSION 1.4+E:\Backup\OderUpAdmin\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2695473612.index
+13175580.index
+1786252791.index
+995082372.index
+1067094681.index
